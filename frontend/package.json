@@ -1,0 +1,30 @@
+{
+  "name": "zachs-liquor-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext .js,.jsx"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.1",
+    "recharts": "^2.12.7",
+    "axios": "^1.7.2",
+    "date-fns": "^3.6.0",
+    "react-hot-toast": "^2.4.1",
+    "zustand": "^4.5.2",
+    "lucide-react": "^0.383.0",
+    "@tanstack/react-query": "^5.40.0",
+    "react-hook-form": "^7.51.5",
+    "clsx": "^2.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "vite": "^5.2.12",
+    "eslint": "^8.57.0"
+  }
+}
