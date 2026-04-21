@@ -1,4 +1,4 @@
-# 🥃 Zach's Liquor Store — Inventory Management System
+# Liquor Retail Store — Smart Inventory Management & Analytics System
 
 ## System Architecture
 
