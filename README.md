@@ -1,4 +1,4 @@
-# Liquor Retail Store — Smart Inventory Management & Analytics System
+# Retail Liquor Store — Smart Inventory Management & Analytics System
 
 ## System Architecture
 
